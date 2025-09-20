@@ -45,7 +45,7 @@ When downloading files from unknown sources:
 - `Content-Disposition`: May suggest a filename; use with caution.
 - `ETag` and `Last-Modified`: Useful for deduplication and caching.
 
-## Assignment Requirements (from `text.txt`)
+## Assignment Requirements
 - Handle multiple URLs at once.
 - Take precautions when downloading files from unknown sources.
 - Prevent downloading duplicate images.
