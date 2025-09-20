@@ -1,4 +1,4 @@
-# PLP Academy Python Assignment — Week 6
+# PLP Academy Python Assignment-Week 6
 
 ## Overview
 This assignment is designed to help practice Python file handling, HTTP requests, error management, and safe downloading practices. The main script allows users to fetch images from the web by providing one or more image URLs. It demonstrates best practices for working with external resources and handling potential risks.
