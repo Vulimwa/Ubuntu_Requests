@@ -65,12 +65,5 @@ Image saved to Fetched_Images/image1.jpg
 Skipped duplicate: image2.png
 Connection strengthened. Community enriched.
 ```
-
-## Suggestions for Improvement
-- Add checks for `Content-Type` and `Content-Length` before saving files.
-- Use hashes or timestamps for more robust duplicate prevention.
-- Accept URLs from a file or command-line arguments for automation.
-- Add unit tests and a `requirements.txt` for easier setup.
-
 ## Author & License
 This assignment is for PLP Academy, Week 6. Feel free to use and adapt for educational purposes.
