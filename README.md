@@ -4,9 +4,9 @@
 This assignment is designed to help practice Python file handling, HTTP requests, error management, and safe downloading practices. The main script allows users to fetch images from the web by providing one or more image URLs. It demonstrates best practices for working with external resources and handling potential risks.
 
 ## Project Structure
-- `file.py` — Main Python script for downloading images.
-- `text.txt` — Assignment instructions and evaluation criteria.
-- `Fetched_Images/` — Folder where downloaded images are stored.
+- `file.py`-Main Python script for downloading images.
+- `text.txt`-Assignment instructions and evaluation criteria.
+- `Fetched_Images/`-Folder where downloaded images are stored.
 
 ## Features
 - **Multiple URL Support:** Enter several image URLs (comma-separated) to download them in one run.
